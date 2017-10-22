@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=lineStartX\ lineStartY\ dirX\ dirY
+comment0.target=void\ followLine(int,\ int,\ double,\ double)
+comment1.params=start\ advance\ startMinor\ slope\ horizontal
+comment1.target=void\ doSquares(int,\ int,\ int,\ double,\ boolean)
+comment2.params=major\ minor\ impactMajor\ impactMinor\ horizontal
+comment2.target=boolean\ doSquare(int,\ int,\ double,\ double,\ boolean)
+comment3.params=x\ y\ impactX\ impactY
+comment3.target=boolean\ process(int,\ int,\ double,\ double)
+comment3.text=\r\n\ Return\ true\ to\ continue\ with\ the\ line,\ false\ to\ stop\r\n\ \r\n\ @param\ x\ The\ x\ coordinate\ of\ the\ grid\ cell\ to\ check\r\n\ @param\ y\ The\ y\ coordinate\ of\ the\ grid\ cell\ to\ check\r\n\ @param\ impactX\ The\ exact\ x\ coordinate\ where\ the\ square\ was\ entered\ by\ the\ line\r\n\ @param\ impactY\ The\ exact\ x\ coordinate\ where\ the\ square\ was\ entered\ by\ the\ line\ \ \ \ \ *\ \r\n
+numComments=4

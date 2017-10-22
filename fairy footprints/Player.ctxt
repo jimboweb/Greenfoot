@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=world\ gp
+comment0.target=Player(GameWorldManager,\ myWorld)
+comment1.params=
+comment1.target=void\ update()
+comment10.params=jumpS
+comment10.target=void\ setJumpSpeed(int)
+comment2.params=g
+comment2.target=void\ drawHearts(BufferedImage)
+comment3.params=
+comment3.target=void\ updateHearts()
+comment4.params=
+comment4.target=void\ resetCount()
+comment5.params=
+comment5.target=void\ move()
+comment6.params=
+comment6.target=java.awt.Point\ thisPosition()
+comment7.params=
+comment7.target=java.awt.Point\ nextPosition()
+comment8.params=g
+comment8.target=void\ draw(BufferedImage)
+comment9.params=g
+comment9.target=void\ drawMim(BufferedImage)
+numComments=11

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Background()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Background.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ dropFruit()
+numComments=3

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=thisWorld
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Mouse\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ getMoveCommand()
+comment3.params=direction
+comment3.target=void\ move(java.lang.String)
+comment4.params=
+comment4.target=void\ checkObstacle()
+comment5.params=
+comment5.target=void\ getCheese()
+numComments=6

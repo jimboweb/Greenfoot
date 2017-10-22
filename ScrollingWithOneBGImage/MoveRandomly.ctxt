@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=mover
+comment0.target=MoveRandomly(greenfoot.Actor)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ MoveRandomly\n
+comment1.params=mover\ obstacleClass
+comment1.target=MoveRandomly(greenfoot.Actor,\ java.lang.Class)
+comment2.params=speed
+comment2.target=void\ moveRandomly(int)
+comment3.params=speed\ turnPercentage\ turnWidth
+comment3.target=void\ moveRandomly(int,\ int,\ int)
+comment4.params=
+comment4.target=boolean\ findObstacle()
+comment5.params=
+comment5.target=void\ setWorld()
+comment6.params=turnWidth
+comment6.target=void\ turnRandom(int)
+numComments=7

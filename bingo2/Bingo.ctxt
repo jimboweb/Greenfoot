@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bingo()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Bingo.\r\n\ \r\n
+comment1.params=
+comment1.target=LottoBoard\ getLottoBoard()
+comment1.text=\r\n\ The\ getLottoBoard\ method\ returns\ the\ LottoBoard\ actor\ so\ its\ methods\r\n\ can\ be\ called\ by\ the\ Numbers\ actor\r\n
+numComments=2

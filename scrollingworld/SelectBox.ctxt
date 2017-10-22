@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=icon
+comment0.target=SelectBox(greenfoot.Actor)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ SelectBox\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ select()
+comment3.params=
+comment3.target=void\ deselect()
+comment4.params=
+comment4.target=java.lang.Class\ actorClass()
+comment5.params=
+comment5.target=void\ clicked()
+numComments=6

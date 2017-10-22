@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=BufferedImage(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BufferedImage\r\n
+comment1.params=x\ y
+comment1.target=BufferedImage(int,\ int)
+comment2.params=bim
+comment2.target=BufferedImage(BufferedImage)
+comment3.params=y
+comment3.target=int\ sampleMethod(int)
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+numComments=4

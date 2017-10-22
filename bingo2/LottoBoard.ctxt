@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=columns\ rows
+comment0.target=LottoBoard(int,\ int)
+comment1.params=num
+comment1.target=boolean\ isNumberPicked(int)
+comment1.text=\r\n\ isNumberPicked\ method\ returns\ true\ if\ a\ number\ has\ been\ picked\r\n
+comment2.params=num
+comment2.target=void\ placeNumber(int)
+comment2.text=\r\n\ placeNumber\ method\ places\ a\ number\ on\ the\ board.\r\n
+comment3.params=
+comment3.target=void\ act()
+numComments=4

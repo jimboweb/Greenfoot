@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ Bug\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=obstacle
+comment1.target=void\ moveWASDObstacle(java.lang.Class)
+numComments=2

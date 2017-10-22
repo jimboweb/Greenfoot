@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=myWorld
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Cat\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=boolean\ getWallInFront()
+comment3.params=
+comment3.target=void\ wrapAtEdge()
+numComments=4

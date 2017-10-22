@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cliffs()
+comment1.params=
+comment1.target=ScoreCounter\ giveCounter()
+comment10.params=amount
+comment10.target=void\ moveWorld(int)
+comment2.params=
+comment2.target=HealthCounter\ giveHealth()
+comment3.params=
+comment3.target=boolean\ worldHasMoved()
+comment4.params=
+comment4.target=JetPackGuy\ getGuy()
+comment5.params=
+comment5.target=void\ prepare()
+comment5.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\n\ objects\ and\ add\ them\ to\ the\ world.\n
+comment6.params=
+comment6.target=int\ getJellyX()
+comment7.params=level
+comment7.target=int\ getJellyY(int)
+comment8.params=x\ y
+comment8.target=void\ addJellyfish(int,\ int)
+comment9.params=jellyfish
+comment9.target=void\ removeJellyfish(greenfoot.Actor)
+numComments=11

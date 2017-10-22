@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=_img
+comment0.target=Image(greenfoot.GreenfootImage)
+comment0.text=\r\n\ Image\ Constructor\:\ creates\ one\ panel\ of\ the\ wallpaper\ image\r\n\r\n\ @param\ _img\ A\ parameter\ to\ recieve\ the\ image\ to\ use\ to\ create\ the\ image\ for\ the\ wallpaper\r\n
+numComments=1

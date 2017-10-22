@@ -1,0 +1,13 @@
+worldWidth:2000
+worldHeight:2000
+screenWidth:600
+screenHeight:400
+leftX:700
+topY:800
+playerActor:Player|300|200
+scrollingActor0:Wall|138|324
+scrollingActor1:Wall|528|182
+scrollingActor2:Bee|190|96
+scrollingActor3:Fly|132|536
+scrollingActor4:Fly|-74|14
+scrollingActor5:Fly|110|176

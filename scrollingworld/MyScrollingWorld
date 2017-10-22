@@ -1,0 +1,7 @@
+worldWidth:2000
+worldHeight:2000
+screenWidth:600
+screenHeight:400
+leftX:700
+topY:800
+playerActor:Player,300,200

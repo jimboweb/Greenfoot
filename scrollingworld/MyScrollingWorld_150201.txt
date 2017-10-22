@@ -1,0 +1,9 @@
+worldWidth:2000
+worldHeight:2000
+screenWidth:600
+screenHeight:400
+leftX:700
+topY:800
+playerActor:Player,300,200
+scrollingActor0:Wall,52,274
+scrollingActor1:Bee,-324,398

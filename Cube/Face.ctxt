@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=myWorld\ topX\ topY\ center\ top\ topRight\ right\ bottomRight\ bottom\ bottomLeft\ left\ topLeft
+comment0.target=Face(greenfoot.World,\ int,\ int,\ Center,\ Corner,\ Side,\ Corner,\ Side,\ Corner,\ Side,\ Corner,\ Side)
+comment1.params=
+comment1.target=void\ draw()
+comment2.params=
+comment2.target=void\ clear()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ atWorldEdge()
+comment0.text=\r\n\ Test\ if\ we\ are\ close\ to\ one\ of\ the\ edges\ of\ the\ world.\ Return\ true\ is\ we\ are.\r\n
+comment1.params=clss
+comment1.target=boolean\ canSee(java.lang.Class)
+comment1.text=\r\n\ Return\ true\ if\ we\ can\ see\ an\ object\ of\ class\ 'clss'\ right\ where\ we\ are.\ \r\n\ False\ if\ there\ is\ no\ such\ object\ here.\r\n
+comment2.params=clss
+comment2.target=void\ eat(java.lang.Class)
+comment2.text=\r\n\ Try\ to\ eat\ an\ object\ of\ class\ 'clss'.\ This\ is\ only\ successful\ if\ there\r\n\ is\ such\ an\ object\ where\ we\ currently\ are.\ Otherwise\ this\ method\ does\r\n\ nothing.\r\n
+numComments=3

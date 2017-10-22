@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=fileName\ num\ period\ duration\ repeat
+comment0.target=Animation(java.lang.String,\ int,\ int,\ int,\ boolean)
+comment1.params=prefixfileName\ postfixFileName\ num\ period\ duration\ repeat
+comment1.target=Animation(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ boolean)
+comment10.params=g\ x\ y
+comment10.target=void\ draw(BufferedImage,\ int,\ int)
+comment2.params=fnm
+comment2.target=BufferedImage\ loadImage(java.lang.String)
+comment3.params=fnm\ num
+comment3.target=BufferedImage[]\ setAnimImagesFromOneFile(java.lang.String,\ int)
+comment4.params=prefixFileName\ postFileName\ num
+comment4.target=BufferedImage[]\ setAnimImagesFromFiles(java.lang.String,\ java.lang.String,\ int)
+comment5.params=
+comment5.target=void\ updateImage()
+comment6.params=
+comment6.target=BufferedImage\ getCurrentImage()
+comment7.params=
+comment7.target=void\ stop()
+comment8.params=
+comment8.target=boolean\ isStopped()
+comment9.params=
+comment9.target=void\ resume()
+numComments=11

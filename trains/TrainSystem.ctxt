@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=TrainSystem
+comment0.text=\n\ Write\ a\ description\ of\ class\ System\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=TrainSystem()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ System.\n\ \n
+comment10.params=
+comment10.target=void\ clearConnectingStation()
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\n\ objects\ and\ add\ them\ to\ the\ world.\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=mouseX\ mouseY
+comment4.target=Station\ addStation(int,\ int)
+comment5.params=st
+comment5.target=void\ removeStation(Station)
+comment6.params=index
+comment6.target=Station\ getStation(int)
+comment7.params=station0\ station1
+comment7.target=Track\ addTrack(Station,\ Station)
+comment8.params=st
+comment8.target=void\ setConnectingStation(Station)
+comment9.params=
+comment9.target=int\ getConnectingStation()
+numComments=11

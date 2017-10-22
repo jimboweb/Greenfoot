@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=color\ size
+comment0.target=Center(java.awt.Color,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Center\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JetPackGuy()
+comment1.params=
+comment1.target=void\ move()
+comment2.params=oldX\ oldY
+comment2.target=java.lang.String\ checkPlatform(int,\ int)
+comment3.params=newX\ newY
+comment3.target=java.lang.String\ checkBoundaries(int,\ int)
+comment4.params=direction
+comment4.target=void\ run(java.lang.String)
+comment5.params=
+comment5.target=void\ stop()
+comment6.params=direction
+comment6.target=void\ turn(java.lang.String)
+comment6.text=\r\n\ \ \ \ public\ boolean\ isHeOnTheGround(int\ nextY){\r\n\ \ \ \ \ \ \ \ int\ bottomOfFeet\ \=\ nextY\ -\ myHeight;\r\n\ \ \ \ \ \ \ \ int\ feetOnTheGround\ \=\ bottomOfWorld\ -\ myHeight;\r\n\ \ \ \ \ \ \ \ Actor\ thisPlatform\ \=\ getOneObjectAtOffset(0,\ myHeight+120,\ Platform.class);\r\n\ \ \ \ \ \ \ \ if(nextY\ >\=\ feetOnTheGround){\r\n\ \ \ \ \ \ \ \ \ \ \ \ setLocation(getX(),\ feetOnTheGround);\r\n\ \ \ \ \ \ \ \ \ \ \ \ stop();\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ true;\r\n\ \ \ \ \ \ \ \ }\ else\ if(thisPlatform\ \!\=\ null)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ //\ stop();\r\n\ \ \ \ \ \ \ \ \ \ \ \ GreenfootImage\ pImage\ \=\ thisPlatform.getImage();\r\n\ \ \ \ \ \ \ \ \ \ \ \ int\ topOfPlatform\ \=\ thisPlatform.getY()\ -\ pImage.getHeight();\r\n\ \ \ \ \ \ \ \ \ \ \ \ feetOnTheGround\ \=\ topOfPlatform\ -\ myHeight;\r\n\ \ \ \ \ \ \ \ \ \ \ \ if(nextY\ <\=\ \ feetOnTheGround){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ setLocation(getX(),\ feetOnTheGround);\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ stop();\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ return\ true;\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ }\ else\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ false;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ return\ false;\r\n\ \ \ \ }\r\n
+comment7.params=direction
+comment7.target=void\ fireJet(java.lang.String)
+comment8.params=
+comment8.target=void\ act()
+comment8.text=\r\n\ Act\ -\ do\ whatever\ the\ JetPackGuy\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=9

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=worldBuilderFile
+comment0.target=greenfoot.World\ makeScrollingWorld(java.lang.String)
+comment1.params=
+comment1.target=ScrollingWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ScrollingWorld.\n\ \n
+comment2.params=worldWidth\ worldHeight\ screenWidth\ screenHeight\ leftX\ topY
+comment2.target=ScrollingWorld(int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ \ \ \ public\ ScrollingWorld(int\ worldWidth,\ int\ worldHeight,\ int\ screenWidth,\ int\ screenHeight)\n\ \ \ \ {\ \ \ \ \n\ \ \ \ //\ Create\ a\ new\ world\ with\ 600x400\ cells\ with\ a\ cell\ size\ of\ 1x1\ pixels.\n\ \ \ \ super(screenWidth,\ screenHeight,\ 1,\ false);\ \n\ \ \ \ this.worldWidth\ \=\ worldWidth;\n\ \ \ \ this.worldHeight\ \=\ worldHeight;\n\ \ \ \ }\n
+comment4.params=player\ deltaX\ deltaY
+comment4.target=void\ shiftWorld(greenfoot.Actor,\ int,\ int)
+comment5.params=player
+comment5.target=void\ scrollAround(greenfoot.Actor)
+comment6.params=
+comment6.target=void\ placeActors()
+numComments=7

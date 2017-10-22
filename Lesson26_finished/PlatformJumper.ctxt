@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=myWorld
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ PlatformJumper\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=direction
+comment2.target=void\ run(java.lang.String)
+comment3.params=
+comment3.target=void\ stop()
+comment4.params=
+comment4.target=void\ jump()
+comment5.params=
+comment5.target=void\ fall()
+comment5.text=\n\ fall()\ will\ be\ called\ whenever\ BallGuy\ is\ in\ the\ air.\ Decreases\ the\ deltaY\ by\ 1,\ creating\n\ gravity.\n
+comment6.params=
+comment6.target=void\ move()
+comment7.params=
+comment7.target=void\ getCommand()
+numComments=8

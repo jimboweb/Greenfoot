@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=buttonText
+comment0.target=Button(java.lang.String)
+comment1.params=
+comment1.target=boolean\ clicked()
+comment1.text=\n\ clicked\ method\ returns\ 'true'\ when\ button\ has\ been\ clicked.\n\ Given\ object\ 'Button\ button\ \=\ new\ Button("Click\ here\!")\n\ You\ can\ check\ if\ it's\ clicked\ by\ calling\ the\ if\ statement\n\ if(button.clicked)\n\ {\n\ \ \ \ \ \ //do\ whatever\ you\ want\ to\ do\ \ \ \n\ \ }\n
+numComments=2

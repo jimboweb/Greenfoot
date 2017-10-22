@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ move()
+comment2.params=
+comment2.target=void\ checkTurn()
+comment3.params=
+comment3.target=void\ checkAccel()
+comment4.params=coord\ limit
+comment4.target=int\ wrapAround(int,\ int)
+comment5.params=
+comment5.target=void\ checkFire()
+numComments=6

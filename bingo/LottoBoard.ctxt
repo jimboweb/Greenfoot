@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LottoBoard()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ LottoBoard\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=
+comment1.target=int\ getArrayLength()
+comment2.params=num
+comment2.target=boolean\ isNumberPicked(int)
+comment3.params=num
+comment3.target=void\ pickNumber(int)
+comment4.params=
+comment4.target=void\ act()
+numComments=5

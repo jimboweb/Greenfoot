@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Number(int)
+comment1.params=
+comment1.target=void\ addedToWorld()
+comment2.params=max
+comment2.target=int\ pickNumber(int)
+comment3.params=numberString
+comment3.target=void\ update(java.lang.String)
+comment4.params=
+comment4.target=void\ act()
+numComments=5

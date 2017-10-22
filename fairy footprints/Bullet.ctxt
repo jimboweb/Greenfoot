@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=man
+comment0.target=Bullet(Player)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=
+comment2.target=void\ move()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tile2()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Tile2.\n\ \n
+comment1.params=wallWidth\ wallHeight\ wallMarker\ mapArray
+comment1.target=void\ drawWallMapFromTextArray(int,\ int,\ java.lang.String,\ java.lang.String[][])
+comment1.text=\n\ drawWallMapFromTextArray\ draws\ a\ map\ of\ walls\ from\ a\ text\ array.\ It\ requires\ as\ arguments\ the\ width\ and\ height\ of\ the\ walls,\ \n\ the\ symbol\ that\ represents\ a\ wall,\ and\ the\ text\ array\ to\ draw\ the\ map\ from.\ It\ will\ throw\ an\ error\ if\ any\ of\ the\ map\ symbols\ are\ \n\ null.\ It\ will\ ignore\ any\ symbol\ that\ is\ not\ a\ wall\ marker.\ Future\ implementations\ will\ allow\ multiple\ symbols\ to\ represent\ \n\ multiple\ actors.\n
+comment2.params=mapWidth\ mapHeight\ fileName
+comment2.target=java.lang.String[][]\ readMapFromTextFile(int,\ int,\ java.lang.String)
+comment2.text=\n\ readMapFromTextFile\ reads\ a\ map\ file\ and\ returns\ a\ 2D\ String\ array\ where\ each\ row\ represents\ an\n\ row\ of\ the\ map.\ The\ arguments\ are\ the\ width\ of\ the\ map\ in\ walls,\ the\ height\ of\ the\n\ map\ in\ walls,\ and\ the\ name\ of\ the\ file\ that\ will\ be\ read.\ \ \n\ The\ text\ file\ must\ have\ no\ more\ than\ the\ height\ of\ the\ map.\n\ Each\ row\ must\ have\ no\ more\ than\ the\ width\ of\ the\ map.\ \n\ If\ the\ file\ is\ too\ big\ for\ the\ size\ of\ the\ map\ that\ was\ passed,\ it\ will\n\ throw\ an\ ArrayIndexOutOfBounds\ error.\ \n
+numComments=3

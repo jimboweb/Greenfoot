@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MainWorld()
+comment0.text=\r\n\ MainWorld\ Constructor\:\ adds\ a\ random\ number\ (between\ 3\ and\ 6)\ of\ babies\ to\ the\ world\ at\ random\ locations\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Method\ act\:\ The\ first\ time\ act\ is\ run\ an\ information\ world\ is\ executed\r\n\ checks\ for\ a\ mouse\ click\ to\ begin\ Menu\ world;\r\n\ also,\ responds\ to\ a\ menu\ option\ click\r\n
+numComments=2

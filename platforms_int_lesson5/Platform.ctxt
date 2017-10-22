@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=getMapX\ getMapY
+comment0.target=Platform(int,\ int)
+numComments=1

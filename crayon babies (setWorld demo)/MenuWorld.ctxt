@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=option\ inWorld
+comment0.target=MenuWorld(java.lang.String[],\ greenfoot.World)
+comment0.text=\r\n\ MenuWorld\ Constructor\:\ prepares\ the\ background\ image,\ creates\ the\ Option\ objects,\ and\ saves\ the\ world\ to\ return\ to\r\n\r\n\ @param\ world\:\ A\ parameter\ to\ set\ 'toWorld'\ with\r\n
+comment1.params=
+comment1.target=void\ setBG()
+comment1.text=\r\n\ Method\ setBG\:\ prepares\ the\ background\ image\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Method\ act\:\ First\ time\ in\ act\ calls\ InfoWorld\ to\ display\ info\ about\ MenuWorld;\r\n\ and\ returns\ to\ MainWorld\ if\ an\ Option\ object\ was\ selected\ (clicked\ on)\r\n
+numComments=3

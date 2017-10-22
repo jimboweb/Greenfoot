@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=theWorld
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment1.params=
+comment1.target=void\ platformMove()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=void\ fall()
+comment4.params=newX\ newY
+comment4.target=void\ setLocationWithScroll(int,\ int)
+numComments=5

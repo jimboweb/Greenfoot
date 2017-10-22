@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=imageName\ columns\ rows
+comment0.target=Animation(java.lang.String,\ int,\ int)
+comment0.text=\n\ To\ use\ Animation\ class,\ you\ must\ pass\ the\ name\ of\ the\ image\ (which\ is\ in\ your\ \n\ images\ folder)\ and\ the\ number\ of\ rows\ and\ columns\ in\ your\ sprite.\ For\ example,\n\ to\ use\ the\ sprite\ sheet\ named\ "animation.gif"\ with\ three\ rows\ and\ five\ columns,\ use\n\ the\ following\ code\ at\ the\ beginning\ \n\ of\ your\ class\:<br\ />\n\ <br\ />\n\ <strong>Animation\ anim\ \=\ new\ Animation("animation.gif",\ 3,\ 5);</strong>\n
+comment1.params=turnDelay
+comment1.target=greenfoot.GreenfootImage\ animate(int)
+comment1.text=\n\ Use\ the\ animate\ image\ method\ to\ replace\ the\ GreenfootImage\ object\ when\ you\ call\ setImage\n\ in\ your\ act\ method.\ For\ example,\ to\ make\ an\ animation\ that\ advances\ every\ four\ turns,\ \n\ use\ the\ following\ code\:\n\ \n\ <br\ />\n\ \ \ \ setImage(anim.animate(4));\ <br\ />\ \n\ <br\ />\n\ \n\ To\ start\ with\ the\ first\ image,\ you\ can\ just\ same\ line\ in\ your\ constructor,\ as\ in\:<br\ />\n\ <br\ />\n\ \ \ \ \ <strong>public\ MyActor()<br\ />\n\ \ \ \ \ \ \ \ \ {<br\ />\n\ \ \ \ \ \ \ \ \ \ \ \ \ setImage(anim.animate(4));<br\ />\n\ \ \ \ \ \ \ \ \ }</strong>\n\ \n\ But\ it\ is\ better\ to\ use\ the\ getCel\ method\ in\ your\ constructor.\n
+comment2.params=row\ col
+comment2.target=greenfoot.GreenfootImage\ getCel(int,\ int)
+comment2.text=\n\ getCel\ method\ gets\ a\ particular\ cel\ based\ on\ the\ row\ or\ column.\ For\ example\ to\ get\ the\ \n\ cel\ at\ row\ 3,\ column\ 5,\ write\:<br\ />\n\ <br\ />\n\ \ \ \ \ anim.getCel(3,\ 5)<br\ />\n\ \ \ \ \ \n\ To\ start\ your\ sprite\ with\ the\ first\ cel\ in\ the\ animation,\ you\ can\ set\ it\ in\ your\ \n\ constructor\ as\ follows\:<br\ />\n\ \ \ \ \ <strong>public\ MyActor()<br\ />\n\ \ \ \ \ \ \ \ \ {<br\ />\n\ \ \ \ \ \ \ \ \ \ \ \ \ setImage(anim.getCel(0,0));<br\ />\n\ \ \ \ \ \ \ \ \ }</strong>\n
+comment3.params=turnDelay\ startSprite\ endSprite
+comment3.target=greenfoot.GreenfootImage\ animate(int,\ int,\ int)
+comment3.text=\n\ The\ advanced\ constructor\ of\ animate\ allows\ you\ to\ start\ and\ end\ with\ a\ particular\ cel.\ \n\ For\ example\ to\ animate\ from\ the\ fourth\ to\ the\ seventh\ cel\ that\ advances\ every\ three\ \n\ turns,\ use\ the\ following\ code\:\ \n\ <br\ />\n\ \ \ \ setImage(anim.animate(3,\ 4,\ 7));\ \ \ \ \ \ \n\ \n
+numComments=4

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=value\ inWorld
+comment0.target=InfoWorld(int,\ greenfoot.World)
+comment0.text=\r\n\ InfoWorld\ Constructor\:\ creates\ the\ appropriate\ background\ image\ depending\ on\ the\ value\ of\ 'value'\ recieved\r\n\r\n\ @param\ value\:\ the\ value\ indicating\ which\ world\ information\ to\ show\r\n\ @param\ inWorld\:\ so\ that\ we\ can\ return\ to\ the\ calling\ world,\ a\ reference\ to\ it\ is\ passed\ and\ saved\ here\r\n
+comment1.params=
+comment1.target=void\ setMainImage()
+comment1.text=\r\n\ Method\ setMainImage\:\ creates\ the\ base\ image\ that\ information\ will\ be\ added\ to\r\n
+comment2.params=
+comment2.target=void\ imageZero()
+comment2.text=\r\n\ Method\ imageZero\:\ adds\ the\ information\ about\ MainWorld\ to\ the\ base\ image\r\n
+comment3.params=
+comment3.target=void\ imageOne()
+comment3.text=\r\n\ Method\ imageOne\:\ adds\ the\ information\ about\ MenuWorld\ to\ the\ base\ image\r\n
+comment4.params=
+comment4.target=void\ imageTwo()
+comment4.text=\r\n\ Method\ imageTwo\:\ adds\ the\ information\ about\ ImageWorld\ to\ the\ base\ image\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Method\ act\:\ returns\ to\ calling\ world\ when\ mouse\ is\ clicked\r\n
+numComments=6

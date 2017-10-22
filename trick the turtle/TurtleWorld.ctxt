@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TurtleWorld()
+comment0.text=\r\n\ Create\ the\ turtle\ world.\ Our\ world\ has\ a\ size\ \r\n\ of\ 560x460\ cells,\ where\ every\ cell\ is\ just\ 1\ pixel.\r\n
+numComments=1

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Number(int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Number\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=int\ pickNumber()
+comment2.text=\r\n\ This\ method\ is\ pretty\ obvious.\ It\ picks\ a\ random\ number\ and\ returns\ it.\ \r\n
+comment3.params=numberString\ fontSize
+comment3.target=void\ update(java.lang.String,\ int)
+comment3.text=\r\n\ The\ update\ method\ draws\ the\ number\ or\ string\ on\ the\ actor\ after\ we've\ clicked\ it.\ \r\n
+numComments=4

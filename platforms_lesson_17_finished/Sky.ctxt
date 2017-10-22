@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sky()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Sky.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ makeMap()
+comment1.text=\r\n\ The\ MakeMap\ method\ uses\ the\ map\ image\ to\ put\ each\ platform\ into\ an\ the\ thePlatfoms\ array\r\n\ and\ to\ give\ each\ platform\ its\ location\ on\ the\ map\ in\ its\ mapX\ and\ mapY\ field.\r\n\ THIS\ METHOD\ WILL\ ONLY\ WORK\ WITH\ A\ GIF\ IMAGE\ WITH\ NO\ ANTI-ALIASING\ OR\ COLOR\ AVERAGING\!\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ This\ draws\ each\ platform\ in\ the\ correct\ place.\ Currently\ doesn't\ yet\ move\ the\ platform,\ but\r\n\ when\ the\ shiftScreen()\ method\ is\ added\ it\ will\ move\ platforms\ and\ remove\ them\ when\ they\r\n\ go\ off\ the\ screen.\r\n
+numComments=3

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment1.params=
+comment1.target=void\ Cat()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Cat\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=direction
+comment3.target=boolean\ findWall(java.lang.String)
+comment4.params=direction
+comment4.target=int\ getXOffset(java.lang.String)
+comment5.params=direction
+comment5.target=int\ getYOffset(java.lang.String)
+comment6.params=xOffset\ yOffset\ turnDirection
+comment6.target=void\ randomTurn(int,\ int,\ int)
+comment7.params=
+comment7.target=void\ wrapAtEdge()
+numComments=8

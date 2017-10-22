@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=a\ t
+comment0.target=RemoveObjectOnCollision(greenfoot.Actor,\ java.lang.Class)
+comment1.params=
+comment1.target=int\ removeObjectOnCollision()
+numComments=2

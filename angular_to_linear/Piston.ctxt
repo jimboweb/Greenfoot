@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=myWorld\ hinge\ length\ width
+comment0.target=Piston(greenfoot.World,\ Hinge,\ int,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Piston\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2

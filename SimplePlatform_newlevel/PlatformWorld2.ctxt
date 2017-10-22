@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PlatformWorld2()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ PlatformWorld2.\n\ \n
+comment1.params=thisClass\ x\ y\ length
+comment1.target=void\ createARow(java.lang.Class,\ int,\ int,\ int)
+numComments=2

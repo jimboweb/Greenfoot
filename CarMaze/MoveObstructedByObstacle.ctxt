@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=m\ o
+comment0.target=MoveObstructedByObstacle(greenfoot.Actor,\ java.lang.Class)
+comment1.params=speed
+comment1.target=void\ moveWithArrowsOb(int)
+comment2.params=speed
+comment2.target=void\ moveWithMouseOb(int)
+comment3.params=
+comment3.target=greenfoot.Actor\ senseObstacle()
+numComments=4

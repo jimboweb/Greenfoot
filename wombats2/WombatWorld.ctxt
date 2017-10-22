@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WombatWorld()
+comment0.text=\r\n\ Create\ a\ new\ world\ with\ 8x8\ cells\ and\r\n\ with\ a\ cell\ size\ of\ 60x60\ pixels\r\n
+comment1.params=
+comment1.target=void\ populate()
+comment1.text=\r\n\ Populate\ the\ world\ with\ a\ fixed\ scenario\ of\ wombats\ and\ leaves.\r\n
+comment2.params=howMany
+comment2.target=void\ randomLeaves(int)
+comment2.text=\r\n\ Place\ a\ number\ of\ leaves\ into\ the\ world\ at\ random\ places.\r\n\ The\ number\ of\ leaves\ can\ be\ specified.\r\n
+numComments=3

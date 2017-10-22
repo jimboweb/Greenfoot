@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ScrollingWorld()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ScrollingWorld.\n\ \n
+comment1.params=mover\ deltaX\ deltaY
+comment1.target=void\ moveWorld(greenfoot.Actor,\ int,\ int)
+comment2.params=mover
+comment2.target=void\ scrollAround(greenfoot.Actor)
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\n\ objects\ and\ add\ them\ to\ the\ world.\n
+comment4.params=
+comment4.target=void\ zoomOut()
+comment5.params=
+comment5.target=void\ zoomIn()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

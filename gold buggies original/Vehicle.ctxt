@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ offTheMap()
+comment1.params=clss
+comment1.target=boolean\ isTouching(java.lang.Class)
+comment2.params=clss
+comment2.target=void\ get(java.lang.Class)
+numComments=3

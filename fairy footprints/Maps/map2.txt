@@ -1,0 +1,24 @@
+ADIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIICAA
+AD                                                        CAA
+AD                                                       !CAA
+AD                                                       ICAA
+AD                                                        CAA
+AD                                                        CAA
+AD    I  I 2                            3          I  I   CAA
+AD  I    IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII      CAA
+ADI      I                                         I      CAA
+AD       I                                         I      CAA
+AD 1I    I  I  I                              2 I  I      CAA
+ADIII   III   IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII  I      CAA
+AD      III   I                                 I  I      CAA
+AD     IIIII  I             3                   I  I      CAA
+AD       I    I    IIIIIIIIIIIIIIIIIIIIIIIII    I  I      CAA
+AD  I    I   ?I    I                            I  I      CAA
+AD    I  I  III   ?I 1                          I  I      CAA
+AD       I    I   IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII  I      CAA
+AD      III   II                                   I      CAA
+AD     I I    I                                0   I      CAA
+AD    I  III  IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII      CAA
+AD       I                                           !    CAA
+AD      ?I?                                1         I    CAA
+AHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBF    CAA

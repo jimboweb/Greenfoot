@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=myWorld\ selectedClass
+comment0.target=ClassMarker(WorldBuilder,\ java.lang.Class)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=c
+comment2.target=void\ setImageToSelected(java.lang.Class)
+numComments=3

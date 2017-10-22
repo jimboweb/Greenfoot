@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PlatformWorld2()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ PlatformWorld2.\n\ \n
+comment1.params=thisClass\ x\ y\ length
+comment1.target=void\ createARow(java.lang.Class,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\n\ objects\ and\ add\ them\ to\ the\ world.\n
+numComments=3

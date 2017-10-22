@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StationButton
+comment0.text=\n\ Write\ a\ description\ of\ class\ StationButton\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=StationButton()
+comment2.params=myWorld
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ StationButton\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=4

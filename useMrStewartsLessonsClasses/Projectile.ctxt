@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=Projectile(greenfoot.Actor)
+comment1.params=a\ key\ s
+comment1.target=Projectile(greenfoot.Actor,\ java.lang.String,\ int)
+comment2.params=a\ key\ s\ tc
+comment2.target=Projectile(greenfoot.Actor,\ java.lang.String,\ int,\ java.lang.Class)
+comment3.params=a\ key\ s\ fileName
+comment3.target=Projectile(greenfoot.Actor,\ java.lang.String,\ int,\ java.lang.String)
+comment4.params=a\ key\ s\ fileName\ tc
+comment4.target=Projectile(greenfoot.Actor,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.Class)
+comment5.params=
+comment5.target=void\ fireProjectile()
+comment5.text=\r\n\ Act\ -\ do\ whatever\ the\ Projectile\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=6

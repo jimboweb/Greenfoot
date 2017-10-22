@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=myWorld\ text
+comment0.target=StaticText(greenfoot.World,\ java.lang.String)
+comment1.params=myWorld\ text\ fontSize\ startX\ startY
+comment1.target=StaticText(greenfoot.World,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=myWorld\ text\ fontSize\ startX\ startY\ textColor\ bgColor
+comment2.target=StaticText(greenfoot.World,\ java.lang.String,\ int,\ int,\ int,\ java.awt.Color,\ java.awt.Color)
+numComments=3

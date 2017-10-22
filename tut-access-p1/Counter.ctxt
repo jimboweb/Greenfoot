@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Counter()
+comment1.params=amount
+comment1.target=void\ bumpCount(int)
+comment1.text=\r\n\ Increase\ the\ total\ amount\ displayed\ on\ the\ counter,\ by\ a\ given\ amount.\r\n
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ PieShip\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=
+comment1.target=void\ turnOnCommand()
+comment2.params=
+comment2.target=void\ accelOnCommand()
+comment3.params=changeX\ changeY
+comment3.target=void\ move(int,\ int)
+comment3.text=\n\ A\ modified\ version\ of\ the\ move\ command\n\ allowing\ an\ actor\ to\ "drift"\ while\ it\ turns\n
+numComments=4

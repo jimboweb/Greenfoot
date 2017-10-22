@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=JetPackGuy
+comment0.text=\n\ Write\ a\ description\ of\ class\ JetPackGuy\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=JetPackGuy()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=direction
+comment3.target=void\ run(java.lang.String)
+comment4.params=direction
+comment4.target=void\ turn(java.lang.String)
+comment5.params=direction
+comment5.target=void\ fireJet(java.lang.String)
+comment6.params=
+comment6.target=void\ hitOpponent()
+comment7.params=
+comment7.target=void\ act()
+comment7.text=\n\ Act\ -\ do\ whatever\ the\ JetPackGuy\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=8

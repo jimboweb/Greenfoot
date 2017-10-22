@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=Box(java.awt.Color)
+comment1.params=
+comment1.target=java.awt.Color\ getColor()
+numComments=2

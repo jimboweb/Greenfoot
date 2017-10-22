@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=follower\ classToFollow
+comment0.target=FollowActor(greenfoot.Actor,\ java.lang.Class)
+comment0.text=\n\ Constructor\ for\ FollowActor\ with\ an\ Actor\ argument\ for\ the\ follower\ and\ a\ Class\ argument\ for\n\ the\ class\ of\ actor\ to\ follow.\ The\ follower\ will\ follow\ the\ closest\ actor\ of\ this\ class.\ This\n\ also\ works\ if\ you\ only\ have\ one\ actor\ of\ that\ class\ to\ follow,\ for\ example\ if\ you\ want\n\ an\ actor\ that\ will\ chase\ the\ player\ and\ the\ actor\ doesn't\ have\ the\ player\ as\ an\ object.\n
+comment1.params=follower\ actorToFollow
+comment1.target=FollowActor(greenfoot.Actor,\ greenfoot.Actor)
+comment1.text=\n\ Constructor\ for\ FollowActor\ with\ two\ Actor\ arguments,\ the\ follower\ and\ the\ actor\ being\ \n\ followed.\ This\ works\ if\ you\ already\ haee\ the\ actor\ that\ you\ want\ to\ follow\ as\ an\ object\n\ in\ the\ class\ calling\ this\ method.\ \n
+comment2.params=speed
+comment2.target=void\ followActor(int)
+comment2.text=\n\ followActor\ method\ calls\ for\ an\ integer\ argument\ for\ the\ speed\ at\ which\ we'll\ follow\ the\ actor.\ \n
+numComments=3

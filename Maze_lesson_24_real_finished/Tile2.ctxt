@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tile2()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Tile2.\n\ \n
+comment1.params=mapWidth\ mapHeight\ fileName
+comment1.target=java.lang.String[][]\ readMapFromTextFile(int,\ int,\ java.lang.String)
+numComments=2

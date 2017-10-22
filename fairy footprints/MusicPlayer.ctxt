@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MusicPlayer()
+comment1.params=fileName
+comment1.target=void\ loadMusic(java.lang.String)
+comment2.params=
+comment2.target=void\ playMusic()
+comment3.params=
+comment3.target=void\ stopPlaying()
+comment4.params=
+comment4.target=boolean\ isStopped()
+comment5.params=
+comment5.target=void\ repeating()
+comment6.params=
+comment6.target=void\ replay()
+numComments=7

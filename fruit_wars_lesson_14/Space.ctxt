@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Space()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Space.\n\ \n
+comment1.params=
+comment1.target=Counter\ getCounter()
+comment2.params=
+comment2.target=HealthBar\ getHealthBar()
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\n\ objects\ and\ add\ them\ to\ the\ world.\n
+numComments=4

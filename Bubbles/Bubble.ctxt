@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bubble()
+comment1.params=w
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Bubble\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=speed\ direction
+comment3.target=void\ bounce(int,\ java.lang.String)
+numComments=4

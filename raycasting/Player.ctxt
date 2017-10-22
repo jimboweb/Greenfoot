@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=x\ y
+comment2.target=double\ calculateDirection(double,\ double)
+comment3.params=dir
+comment3.target=double\ calculateX(double)
+comment4.params=dir
+comment4.target=double\ calculateY(double)
+comment5.params=x\ y
+comment5.target=void\ moveTo(int,\ int)
+comment6.params=
+comment6.target=double\ getExactX()
+comment7.params=
+comment7.target=double\ getExactY()
+comment8.params=
+comment8.target=boolean\ hasMoved()
+comment9.params=
+comment9.target=boolean\ showProperView()
+numComments=10

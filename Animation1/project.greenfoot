@@ -1,0 +1,31 @@
+#Greenfoot properties
+#Mon Feb 23 11:41:38 EST 2015
+target1.type=ClassTarget
+project.charset=UTF-8
+mainWindow.height=548
+target2.type=ClassTarget
+version=2.6.0
+class.Rock.superclass=greenfoot.World
+target2.y=10
+target2.x=160
+target1.typeParameters=
+world.lastInstantiated=Rock
+target1.height=50
+target2.width=80
+mainWindow.y=40
+target1.width=80
+mainWindow.x=40
+class.Rock.image=bluerock.jpg
+target2.typeParameters=
+class.Ninja.image=player_run1.png
+class.Ninja.superclass=greenfoot.Actor
+package.numDependencies=0
+target1.y=10
+target1.x=70
+mainWindow.width=886
+package.numTargets=2
+target1.name=Rock
+target1.showInterface=false
+target2.showInterface=false
+target2.name=Ninja
+target2.height=50

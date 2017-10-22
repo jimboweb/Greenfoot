@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=MoveWithArrows(greenfoot.Actor)
+comment1.params=speed
+comment1.target=void\ MoveActorWithArrows(int)
+numComments=2

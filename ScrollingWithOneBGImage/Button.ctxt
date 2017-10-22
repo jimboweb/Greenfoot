@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=myWorld\ text
+comment0.target=Button(greenfoot.World,\ java.lang.String)
+comment1.params=myWorld\ text\ fontSize\ startX\ startY
+comment1.target=Button(greenfoot.World,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=myWorld\ text\ fontSize\ startX\ startY\ textColor\ bgColor
+comment2.target=Button(greenfoot.World,\ java.lang.String,\ int,\ int,\ int,\ java.awt.Color,\ java.awt.Color)
+comment3.params=myWorld\ fileName\ startX\ startY
+comment3.target=Button(greenfoot.World,\ java.lang.String,\ int,\ int)
+comment4.params=
+comment4.target=boolean\ buttonClicked()
+comment5.params=newText
+comment5.target=void\ changeText(java.lang.String)
+comment6.params=fileName
+comment6.target=void\ changeImage(java.lang.String)
+comment7.params=
+comment7.target=void\ hide()
+numComments=8

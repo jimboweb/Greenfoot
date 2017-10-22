@@ -1,0 +1,19 @@
+ADEBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBFCA
+AD                                                         CA
+AD                                                         CA
+AD                2        3                               CA
+AD              EBBF    *  EBBBBF   I                      CA
+AD          1        I1 I       HBBBF   !     2          I CA
+AD         EBF       EBBF           HBBBBBBBBBBBBBBBBBBBBF CA
+AD         C   I                                           CA
+AD         C   EBF              !                          CA
+AD I0   ?  C                   EF  I           I1!I        CA
+AD EBBBBBBBG       EBBF       EGD    I I  I  EBBBBF        CA
+AD                       EF   C                         I2 CA
+AD                       CD  0C         ?               EBFCA
+AD                      EGHBBBG        EB BF               CA
+AD                                     C  1D               CA
+AD                 EBBF               EGBBBHBF   EBF       CA
+AD             I      D?0    *                         EBF CA
+AD          ?  EBBBBBBHBBBBBBBBF             3             CA
+AHBBBBBBBBBBF  CAAAAAAAAAAAAAAAHBBBBBBBBBBBBBBBBBBBBBBBBBBBGA

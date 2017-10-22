@@ -1,0 +1,17 @@
+1	What is 5 divided by 5?
+2	This number is a factor of all even numbers
+3	What is the GCF of 12 and 9?
+4	What is the square of the smallest prime number?
+5	This number is half the base of the decimal system.
+6	This is the smallest number that can be divided by both 2 and 3 
+7	This is the fourth prime number
+8	What is two to the third power?
+9	This number is the decimal value of 100 base 3
+10	What is the cube root of 1000?
+11	This number is the smallest two-digit prime number in base 10
+12	What is the LCM of 3 and 4?
+13	What is the square root of 169?
+14	This number is the decimal equivalent of E in hexadecimal
+15	This number is the product of the second and third prime numbers
+16	This is the smallest number greater than 1 that is a square of a perfect square
+17	

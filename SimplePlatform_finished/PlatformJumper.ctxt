@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=myWorld
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ getCommand()
+comment3.params=direction\ speed
+comment3.target=void\ run(java.lang.String,\ int)
+comment3.text=\n\ The\ run\ command\ simply\ changes\ the\ deltaX\ and\ deltaY\ variables\ for\ the\ move\ command\ below.\n\ Obviously\ change\ the\ 5\ to\ run\ faster\ or\ slower.\n\ Calls\ for\ the\ string\ "left"\ or\ "right"\ when\ it\ is\ called.\ \n
+comment4.params=
+comment4.target=void\ stop()
+comment4.text=\n\ The\ stop\ command\ simply\ changes\ the\ deltaX\ to\ 0\ to\ stop\ running.\ \n\ Right\ now\ it\ only\ works\ if\ you're\ using\ the\ mouse\ command.\ \n
+comment5.params=jumpHeight
+comment5.target=void\ jump(int)
+comment5.text=\n\ The\ jump\ sets\ the\ deltaY\ to\ 30\ for\ the\ move\ command.\ Obviously\ change\ the\ 30\ to\ make\n\ BallGuy\ jump\ higher\ or\ lower.\n
+comment6.params=fallSpeed
+comment6.target=void\ fall(double)
+comment6.text=\n\ fall()\ will\ be\ called\ whenever\ BallGuy\ is\ in\ the\ air.\ Decreases\ the\ deltaY\ by\ 1,\ creating\n\ gravity.\n
+comment7.params=
+comment7.target=void\ move()
+comment7.text=\n\ Modified\ move\ command\ that\ depends\ on\ changing\ x\ and\ y\ coordinates\ based\ on\ an\n\ deltaX\ and\ deltaY\ variable,\ which\ will\ be\ modified\ by\ the\ run(),\ jump()\ and\ fall()\ \n\ methods\ above.\n
+numComments=8

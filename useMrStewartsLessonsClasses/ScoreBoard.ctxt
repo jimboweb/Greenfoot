@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=w\ f\ startX\ startY
+comment0.target=ScoreBoard(greenfoot.World,\ int,\ int,\ int)
+comment1.params=w\ f\ startX\ startY\ tc\ bgc
+comment1.target=ScoreBoard(greenfoot.World,\ int,\ int,\ int,\ java.awt.Color,\ java.awt.Color)
+comment2.params=
+comment2.target=void\ increaseScore()
+comment3.params=amount
+comment3.target=void\ increaseScore(int)
+comment4.params=
+comment4.target=void\ decreaseScore()
+comment5.params=amount
+comment5.target=void\ decreaseScore(int)
+comment6.params=
+comment6.target=void\ resetScore()
+comment7.params=amount
+comment7.target=void\ setScore(int)
+comment8.params=
+comment8.target=int\ getScore()
+comment9.params=
+comment9.target=void\ update()
+numComments=10

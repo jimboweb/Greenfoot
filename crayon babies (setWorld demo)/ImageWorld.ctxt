@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=world\ bg
+comment0.target=ImageWorld(greenfoot.World,\ greenfoot.GreenfootImage)
+comment0.text=\r\n\ ImageWorld\ Constructor\:\ saves\ the\ world\ to\ return\ to\ and\ the\ image\ panel;\r\n\ and\ sets\ up\ the\ initial\ background\ image\r\n\r\n\ @param\ world\ A\ parameter\r\n\ @param\ bg\ A\ parameter\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Method\ act\:\ If\ first\ time\ in\ act,\ shows\ info\ on\ ImageWorld\ with\ InfoWorld;\r\n\ checks\ for\ mouse\ click\ to\ return\ to\ MainWorld;\r\n\ and\ checks\ for\ numeric\ keystroke\ to\ change\ the\ apparent\ distance\ of\ image\r\n
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=angle\ distance
+comment0.target=HexWall(int,\ int)
+comment1.params=myWorld
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Calls\ the\ update()\ function\ that\ draws\ the\ line,\ rotates\ and\ contracts\ the\ line.\ \n
+comment3.params=
+comment3.target=void\ update()
+numComments=4

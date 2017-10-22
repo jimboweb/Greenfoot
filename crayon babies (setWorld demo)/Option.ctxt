@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=text\ val
+comment0.target=Option(java.lang.String,\ int)
+comment0.text=\r\n\ Option\ Constructor\:\ sets\ the\ text\ to\ display\ and\ the\ value\ to\ return\ if\ clicked\ on;\r\n\ and\ creates\ the\ image\ for\ the\ Option\ object\r\n\r\n\ @param\ text\:\ A\ parameter\ of\ String\ type\ that\ is\ the\ text\ to\ display\ on\ the\ Option\ object\r\n\ @param\ val\:\ A\ parameter\ of\ int\ type\ that\ will\ be\ returned\ to\ the\ MenuWorld\ object\ if\ clicked\ on\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Method\ act\:\ sets\ the\ value\ of\ 'selected'\ to\ this\ Option\ object's\ value\ if\ clicked\ on\r\n\r\n
+comment2.params=
+comment2.target=int\ getSelected()
+comment2.text=\r\n\ Method\ getSelected\:\ returns\ the\ value\ of\ 'selected'\ and\ clears\ it\ back\ to\ the\ default\ of\ -1\r\n\r\n\ @return\:\ the\ value\ that\ was\ stored\ in\ 'selected'\ (the\ menu\ option\ selected)\r\n
+numComments=3

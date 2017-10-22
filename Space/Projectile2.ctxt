@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=shooter
+comment0.target=Projectile2(greenfoot.Actor)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Projectile2\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ fireProjectile()
+numComments=3
